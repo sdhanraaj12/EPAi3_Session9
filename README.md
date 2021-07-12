@@ -87,14 +87,14 @@ Initially we create a market capital by creating random N values. Then we create
 
 ## Tests Cases
 
-* ### Q1 For Namedtuples
+* ### Q1 Namedtuples
 1.  test_q1_1_number_of_profiles() : Checks profiles created is equal to the number given input
 2.  test_q1_2_average_age() : Checks the average age is properly calculated
 3.  test_q1_3_oldest_person() : Checks oldest person is being identified properly
 4.  test_q1_4_average_coordinates() : Checks average coordinates is being calculated properly
 5.  test_q1_3_max_blood_group() : Checks blood group that occurs maximum times
 
-* ### Q2 For Dictionary
+* ### Q2 Dictionary
 2.  test_q2_1_average_age() : Checks the average age is properly calculated
 3.  test_q2_2_oldest_person() : Checks oldest person is being identified properly
 4.  test_q2_3_average_coordinates() : Checks average coordinates is being calculated properly
@@ -113,7 +113,7 @@ Initially we create a market capital by creating random N values. Then we create
 9.  test_q3_9_docstring_namedtuple() : Checks docstring of named tuple
 10. test_q3_10_docstring() : Checks docstring in symbol function
 
-## Screenshot of Github Action Test Passed
+## Screenshot of Test Passed
 
 <image src='assets/pass2.png' height='790'>
 
