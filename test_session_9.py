@@ -38,7 +38,7 @@ def test_q1_4_average_coordinates():
         Decimal('-5.6701366'), Decimal('2.4545762')), "Test the average coordinate "
 
 
-def test_q1_3_max_blood_group():
+def test_q1_5_max_blood_group():
     assert max_blood_group_nt(named_tuples)[1] == 'O+', "Test the maximum blood type "
 
 
@@ -60,7 +60,7 @@ def test_q2_3_average_coordinates():
         Decimal('-5.6701366'), Decimal('2.4545762')), "PLease check the avg coordinate in dictionary"
 
 
-def test_q2_3_max_blood_group():
+def test_q2_4_max_blood_group():
     assert max_blood_group_dc(fk_profile_dict)[1] == 'O+', "Please check the max blood in dictionary"
 
 
