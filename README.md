@@ -92,13 +92,13 @@ Initially we create a market capital by creating random N values. Then we create
 2.  test_q1_2_average_age() : Checks the average age is properly calculated
 3.  test_q1_3_oldest_person() : Checks oldest person is being identified properly
 4.  test_q1_4_average_coordinates() : Checks average coordinates is being calculated properly
-5.  test_q1_3_max_blood_group() : Checks blood group that occurs maximum times
+5.  test_q1_5_max_blood_group() : Checks blood group that occurs maximum times
 
 * ### Q2 Dictionary
 2.  test_q2_1_average_age() : Checks the average age is properly calculated
 3.  test_q2_2_oldest_person() : Checks oldest person is being identified properly
 4.  test_q2_3_average_coordinates() : Checks average coordinates is being calculated properly
-5.  test_q2_3_max_blood_group() : Checks blood group that occurs maximum times
+5.  test_q2_4_max_blood_group() : Checks blood group that occurs maximum times
 5.  test_q2_5_fastest() : Checks the fastest in namedtuple and dictionary by calling both 1000 times and finding average
 
 * ### Q3 Fake Stock Market
